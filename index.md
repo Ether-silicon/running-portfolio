@@ -9,10 +9,6 @@ title: Teh Yoong Sin | Data-Driven Marathoner
 
 [Email Me](mailto:yoongsin.teh@outlook.com) | [Strava](https://www.strava.com/athletes/39272426) | [Instagram](https://www.instagram.com/teh.yoong.sin/)
 
----
-
-<img src="podium.jpg" alt="Teh Yoong Sin on the Podium" style="float: left; margin: 0 25px 15px 0; max-width: 300px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-
 
 ## The Athlete & The Architect
 
@@ -22,7 +18,6 @@ I don't just put in the miles. I engineer my performance. By analyzing physiolog
 
 Beyond the metrics, I run with purpose. Every race is a tribute to my late father, and I carry a symbolic black cloth with me across every finish line. Honoring his memory also drives my commitment to run for charity, raising awareness and support for Hospis Malaysia. That combination of deep emotional drive, community impact, and cold, hard data is what pushes me to the podium.
 
-<div style="clear: both;"></div>
 
 ---
 
