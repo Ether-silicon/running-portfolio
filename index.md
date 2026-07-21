@@ -5,15 +5,14 @@ title: Teh Yoong Sin | Data-Driven Marathoner
 
 # Teh Yoong Sin
 **Data-Driven Marathoner | Sub-3 Finisher | Senior Data Analyst**
+📍 Kuala Lumpur, Malaysia
 
 [Email Me](mailto:yoongsin.teh@outlook.com) | [Strava](https://www.strava.com/athletes/39272426) | [Instagram](https://www.instagram.com/teh.yoong.sin/)
 
 ---
 
-{/* Replace 'podium.jpg' with your actual image filename after uploading it */}
-![Teh Yoong Sin securing 5th place at the SCORE Marathon](podium.jpg)
+<img src="podium.jpg" alt="Teh Yoong Sin on the Podium" style="float: left; margin: 0 25px 15px 0; max-width: 300px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 
----
 
 ## The Athlete & The Architect
 
@@ -21,15 +20,18 @@ I am a competitive marathoner and a Senior Data Analyst. For me, these two world
 
 I don't just put in the miles. I engineer my performance. By analyzing physiological markers like Heart Rate Variability (HRV), studying 3D foot scan mechanics, and strictly adhering to periodized 3+1 training cycles, I turn raw effort into calculated, predictable speed. 
 
-Beyond the metrics, I run with purpose. Every race is a tribute to my late father, and I carry a symbolic black cloth with me across every finish line. That combination of deep emotional drive and cold, hard data is what pushes me to the podium.
+Beyond the metrics, I run with purpose. Every race is a tribute to my late father, and I carry a symbolic black cloth with me across every finish line. Honoring his memory also drives my commitment to run for charity, raising awareness and support for Hospis Malaysia. That combination of deep emotional drive, community impact, and cold, hard data is what pushes me to the podium.
+
+<div style="clear: both;"></div>
 
 ---
 
 ## Athletic Achievements
 
 ### Marathon (42.195 KM)
+
 | Event | Year | Time | Placement/Category |
-| :--- | :--- | :--- | :--- |
+|---|---|---|---|
 | SCORE Marathon | 2026 | **2:58:54** | 5th - Malaysia Men's Open (Sub-3 PB) |
 | Twincity Marathon | 2026 | **3:08:24** | 5th - Men's Open |
 | KLSCM | 2025 | **3:10:04** | Finisher |
@@ -38,6 +40,7 @@ Beyond the metrics, I run with purpose. Every race is a tribute to my late fathe
 | HTM Ipoh 7 Bridges | 2024 | **3:12:03** | 4th - Men's Open |
 
 ### Half Marathon (21.1 KM) & 10KM
+
 | Event | Year | Time | Placement/Category |
 | :--- | :--- | :--- | :--- |
 | Tri State Run (HM) | 2025 | **1:27:07** | 6th - Men's Open (PB) |
