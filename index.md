@@ -1,7 +1,17 @@
+---
+layout: default
+title: Teh Yoong Sin | Data-Driven Marathoner
+---
+
 # Teh Yoong Sin
 **Data-Driven Marathoner | Sub-3 Finisher | Senior Data Analyst**
 
 [Email Me](mailto:yoongsin.teh@outlook.com) | [Strava](https://www.strava.com/athletes/39272426) | [Instagram](https://www.instagram.com/teh.yoong.sin/)
+
+---
+
+{/* Replace 'podium.jpg' with your actual image filename after uploading it */}
+![Teh Yoong Sin securing 5th place at the SCORE Marathon](podium.jpg)
 
 ---
 
@@ -17,17 +27,15 @@ Beyond the metrics, I run with purpose. Every race is a tribute to my late fathe
 
 ## Athletic Achievements
 
-*Recent highlights, including breaking the Sub-3 hour marathon barrier.*
-
 ### Marathon (42.195 KM)
 | Event | Year | Time | Placement/Category |
 | :--- | :--- | :--- | :--- |
 | SCORE Marathon | 2026 | **2:58:54** | 5th - Malaysia Men's Open (Sub-3 PB) |
 | Twincity Marathon | 2026 | **3:08:24** | 5th - Men's Open |
-| Kuala Lumpur Standard Charted Marathon | 2025 | **3:10:04** | Finisher |
-| HTM Ipoh 7 Bridges Marathon | 2025 | **3:05:16** | 6th - Men's Open |
-| Kuala Lumpur Standard Charted Marathon  | 2024 | **3:08:44** | Finisher |
-| HTM Ipoh 7 Bridges Marathon | 2024 | **3:12:03** | 4th - Men's Open |
+| KLSCM | 2025 | **3:10:04** | Finisher |
+| HTM Ipoh 7 Bridges | 2025 | **3:05:16** | 6th - Men's Open |
+| KLSCM | 2024 | **3:08:44** | Finisher |
+| HTM Ipoh 7 Bridges | 2024 | **3:12:03** | 4th - Men's Open |
 
 ### Half Marathon (21.1 KM) & 10KM
 | Event | Year | Time | Placement/Category |
@@ -44,12 +52,12 @@ Beyond the metrics, I run with purpose. Every race is a tribute to my late fathe
 
 Through my platform, **[PaceArchitecture](https://www.instagram.com/pace.architecture/)**, I bridge the gap between complex sports science and actionable training strategies. I translate dense information—like marathon qualifying standards, race entry systems, and wearable tech data—into highly structured, visually engaging typography and carousels for the running community.
 
-## Partnership Opportunities
+## Why Partner With Me? 
 
-I partner with forward-thinking brands that value both the science of the sport and the story of the athlete. 
+Brands today need more than just fast runners; they need compelling storytellers who can validate their products. As a Senior Data Analyst and a Sub-3 marathoner, I provide **proof of performance**.
 
-* **Technical Product Testing & Reviews:** Leveraging my analytical background to provide detailed, data-backed feedback and content regarding running shoes, wearable tech (Garmin, COROS), and nutrition.
-* **Brand Ambassadorship:** Representing sponsors on the podium and at major upcoming events, including KLSCM 2026.
-* **Educational Content Creation:** Developing data-centric infographics and deep dives for your products through PaceArchitecture.
+1. **Data-Driven Storytelling:** I don't just say a shoe feels fast or a watch is accurate. I pull the HRV data, the pacing zones, and the physiological metrics to show my audience *exactly* how your product engineers better performance. 
+2. **Targeted Community Engagement:** Through my platform, **PaceArchitecture**, I translate dense sports science and technical data into highly visual, structured content. Partnering with me puts your brand in front of an audience that cares deeply about training science, gear tech, and continuous improvement.
+3. **Authentic Ambassadorship:** From securing 5th place at the SCORE Marathon to my upcoming campaigns, I represent brands that value both the science of the sport and the emotional drive behind it.
 
 **[Let's build something together. Get in touch.](mailto:yoongsin.teh@outlook.com)**
