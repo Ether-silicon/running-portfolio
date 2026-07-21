@@ -1,4 +1,5 @@
 # File: _config.yml
 title: Teh Yoong Sin | Data-Driven Marathoner
+logo: "podium.jpg"
 description: Personal running resume and portfolio for Teh Yoong Sin.
 theme: jekyll-theme-minimal
