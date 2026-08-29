@@ -12,14 +12,13 @@ title: Teh Yoong Sin | Data-Driven Marathoner
 
 ## The Athlete & The Architect
 
-I am a competitive marathoner and a Senior Data Analyst. For me, these two worlds are not separate. I approach marathon training with the same rigor I apply to building cloud data architectures—focusing on high-integrity data, automation, and continuous optimization. 
+I am a competitive marathoner and a Senior Data Analyst. For me, these two worlds are completely intertwined. I approach my marathon training blocks with the exact same rigor I apply to building cloud data architectures—obsessing over high-integrity data, workflow automation, and continuous optimization.
 
-I don't just put in the miles. I engineer my performance. By analyzing physiological markers like Heart Rate Variability (HRV), studying 3D foot scan mechanics, and strictly adhering to periodized 3+1 training cycles, I turn raw effort into calculated, predictable speed. 
+I don’t just run miles; I engineer my performance. By integrating my COROS metrics with LLM workflows, I actively analyze my training load, dynamically adjust my workout execution, and continuously refine my pacing strategies based on objective physiological feedback. I founded [@pace.architecture](https://www.instagram.com/pace.architecture/) to bridge this gap, translating raw running metrics into compelling, visual data stories for the community.
 
-Beyond the metrics, I run with purpose. Every race is a tribute to my late father, and I carry a symbolic black cloth with me across every finish line. Honoring his memory also drives my commitment to run for charity, raising awareness and support for Hospis Malaysia. That combination of deep emotional drive, community impact, and cold, hard data is what pushes me to the podium.
+But the numbers are only half the equation. I run with a profound personal purpose. Every race is a tribute to my late father, and I carry a symbolic black cloth with me across every finish line. Honoring his memory drives my commitment to run for charity, raising awareness and critical support for Hospis Malaysia.
 
-
----
+It is this precise intersection—relentless data optimization, community impact, and an unwavering emotional drive—that pushes me to the podium.
 
 ## Athletic Achievements
 
@@ -29,16 +28,21 @@ Beyond the metrics, I run with purpose. Every race is a tribute to my late fathe
 |---|---|---|---|
 | SCORE Marathon | 2026 | **2:58:54** | 5th - Malaysia Men's Open (Sub-3 PB) |
 | Twincity Marathon | 2026 | **3:08:24** | 5th - Men's Open |
-| KLSCM | 2025 | **3:10:04** | Finisher |
-| HTM Ipoh 7 Bridges | 2025 | **3:05:16** | 6th - Men's Open |
-| KLSCM | 2024 | **3:08:44** | Finisher |
-| HTM Ipoh 7 Bridges | 2024 | **3:12:03** | 4th - Men's Open |
+| Kuala Lumpur Standard Charted Marathon 2024 | 2025 | **3:10:04** | Finisher |
+| HTM Ipoh 7 Bridges Marathon | 2025 | **3:05:16** | 6th - Men's Open |
+| Kuala Lumpur Standard Charted Marathon | 2024 | **3:08:44** | Finisher |
+| HTM Ipoh 7 Bridges Run | 2024 | **3:12:03** | 4th - Men's Open |
+| Penang Bridge International Marathon | 2023 | 4:40:44 | Finisher |
+| Kuala Lumpur Standard Charted Marathon | 2023 | **3:24:22** | Finisher |
+| Penang Bridge International Marathon | 2022 | 3:31:45 | Finisher |
+| Penang Bridge International Marathon | 2019 | 3:56:44 | Finisher |
 
 ### Half Marathon (21.1 KM) & 10KM
 
 | Event | Year | Time | Placement/Category |
 | :--- | :--- | :--- | :--- |
-| Tri State Run (HM) | 2025 | **1:27:07** | 6th - Men's Open (PB) |
+| KL Half Marathon 2026 Powered by Jom Run | 2026 | **1:26:04** | 2nd - Men's Open (PB) |
+| Tri State Run (HM) | 2025 | 1:27:07 | 6th - Men's Open |
 | [Ipoh International Run (HM)](https://results.checkpointspot.asia/myresults.aspx?uid=17036-10341-1-889295)| 2024 | **1:28:32** | 10th - Men's Open |
 | [Xtep Time Trial (10K)](https://www.sportsplits.com/races/xtep-10km-time-trial-2026/events/2/results/individuals/1478) | 2026 | **38:35** | 30th (PB) |
 
