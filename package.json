@@ -1,0 +1,13 @@
+{
+  "name": "running-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+  "build": "vitepress build docs",
+  "start": "serve docs/.vitepress/dist --listen tcp://0.0.0.0:3000"
+  },
+  "dependencies": {
+  "vitepress": "^1.6.4",
+  "serve": "^14.2.0"
+  }
+}
