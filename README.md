@@ -27,15 +27,16 @@ It is this precise intersection—relentless data optimization, community impact
 | Event | Year | Time | Placement/Category |
 |---|---|---|---|
 | SCORE Marathon | 2026 | **2:58:54** | 5th - Malaysia Men's Open (Sub-3 PB) |
-| Twincity Marathon | 2026 | **3:08:24** | 5th - Men's Open |
-| Kuala Lumpur Standard Charted Marathon 2024 | 2025 | **3:10:04** | Finisher |
 | HTM Ipoh 7 Bridges Marathon | 2025 | **3:05:16** | 6th - Men's Open |
+| Twincity Marathon | 2026 | **3:08:24** | 5th - Men's Open |
 | Kuala Lumpur Standard Charted Marathon | 2024 | **3:08:44** | Finisher |
+| Kuala Lumpur Standard Charted Marathon | 2025 | **3:10:04** | Finisher |
 | HTM Ipoh 7 Bridges Run | 2024 | **3:12:03** | 4th - Men's Open |
-| Penang Bridge International Marathon | 2023 | 4:40:44 | Finisher |
 | Kuala Lumpur Standard Charted Marathon | 2023 | **3:24:22** | Finisher |
 | Penang Bridge International Marathon | 2022 | 3:31:45 | Finisher |
+| Kuala Lumpur Standard Charted Marathon | 2026 | 3:37:44 | Finisher |
 | Penang Bridge International Marathon | 2019 | 3:56:44 | Finisher |
+| Penang Bridge International Marathon | 2023 | 4:40:44 | Finisher |
 
 ### Half Marathon (21.1 KM) & 10KM
 
@@ -43,6 +44,7 @@ It is this precise intersection—relentless data optimization, community impact
 | :--- | :--- | :--- | :--- |
 | KL Half Marathon 2026 Powered by Jom Run | 2026 | **1:26:04** | 2nd - Men's Open (PB) |
 | Tri State Run (HM) | 2025 | 1:27:07 | 6th - Men's Open |
+| Malaysia Marathon| 2026 | **1:27:14** | 3rd - Men's Open |
 | [Ipoh International Run (HM)](https://results.checkpointspot.asia/myresults.aspx?uid=17036-10341-1-889295)| 2024 | **1:28:32** | 10th - Men's Open |
 | [Xtep Time Trial (10K)](https://www.sportsplits.com/races/xtep-10km-time-trial-2026/events/2/results/individuals/1478) | 2026 | **38:35** | 30th (PB) |
 
